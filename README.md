@@ -32,5 +32,5 @@ https://www.cloudflare.com/website-optimization/railgun/
  -e RG_WAN_PORT=2408 \
  --link railgun-memcached:memcached \
  --restart=always \
- vostro/cloudflare-railgun
+ cmer81/cloudflare-railgun
  ```
